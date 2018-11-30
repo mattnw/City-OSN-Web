@@ -3,7 +3,7 @@ title: "Massey University Open Research community"
 type: portfolio
 date: 2018-07-12T16:54:54+06:00
 caption:
-image: images/portfolio/MasseyUniversityLogo.png
+image:  static/images/masseyUniversityLogo.png
 category: ["University","a town"]
 liveLink: https://nzorn.netlify.com
 client: 
