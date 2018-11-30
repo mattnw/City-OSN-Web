@@ -2,7 +2,7 @@ enable  : true
 title   : Interim co-ordinator
 members  :
   - name  : Matt Williams
-    image :  static/images/team/Matt_grad_pic.jpg
+    image :  images/team/Matt_grad_pic.jpg
     designation : Interim Co-ordinator
     description : Matt is a lecturer in the School of Psychology at Massey University. He is eager to share responsibility for this with other like minded radicals. NZOpenRes does not yet have a formal leadership structure, but this is something that may come with time.
     twitter     : https://www.twitter.com/matthewmatix
