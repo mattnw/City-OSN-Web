@@ -1,11 +1,11 @@
 enable  : true
-title   : Network Steering Committee
+title   : Interim co-ordinator
 members  :
-  - name  : Arbitrary person
-    image : images/team/M_Ling_web.jpg
+  - name  : Matt Williams
+    image : data/Matt_grad_pic.jpg
     designation : Interim Co-ordinator
-    description : Arbitrary is a Lecturer in Something at a University and is eager to share responsibility for this with other like minded radicals. 
-    twitter     : https://www.twitter.com/test
+    description : Matt is a lecturer in the School of Psychology at Massey University. He is eager to share responsibility for this with other like minded radicals. NZOpenRes does not yet have a formal leadership structure, but this is something that may come with time.
+    twitter     : https://www.twitter.com/matthewmatix
 
   
 #  - name  : Jesmin Martina
