@@ -1,8 +1,10 @@
 ---
-title: "Interim Code of Conduct"
-author: "Initial version by Melbourne Open Research Network, minor updates for NZ by Matt Williams"
-date: "30 November 2018"
-output: html_document
+title: Interim Code of Conduct
+author: 'Initial version by Melbourne Open Research Network, minor updates for NZ by Matt Williams'
+date: '2018-12-03'
+slug: code-of-conduct
+categories: []
+tags: []
 ---
 
 ```{r setup, include=FALSE}
