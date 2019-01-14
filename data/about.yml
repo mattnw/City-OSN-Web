@@ -1,7 +1,7 @@
 enable  : true
 title   : What is the New Zealand Open Research Network?
 description: >
-  The New Zealand Open Research Network (NZORN) is a collection of researchers and research-associated workers in New Zealand. It aims to facilitate the growth of Open practices by bringing together independently motivated and like-minded people, and providing a platform for the sharing of resources. 
+  The New Zealand Open Research Network (NZORN) is a collection of researchers and research-associated workers in New Zealand. It aims to facilitate the growth of open practices by bringing together independently motivated and like-minded people, and providing a platform for the sharing of resources. 
   </br></br>
    </br>
   NZORN is inspired by the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a> and the <a href="https://morn.netlify.com//">Melbourne Open Research Network</a>. 
@@ -10,4 +10,4 @@ description: >
 aboutItem:
   - title : What is Open Research?
     description: > 
-      Open research is a term describing a variety of practices directed at maximising the transparency of research, and ultimately leading to maximisation of public goods. These include: Open Access Publication, Open Data, Open Methodology, Open Source Software, Open educational resources & Open peer review.
+      Open research is a term describing a variety of practices directed at maximising the transparency of research, and ultimately leading to maximisation of public goods. These include: Open access publication, open data, open methodology, open source software, open educational eesources & open peer review.
