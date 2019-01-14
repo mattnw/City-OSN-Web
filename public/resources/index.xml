@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on New Zealand Open Research Network</title>
+    <link>/resources/</link>
+    <description>Recent content in Resources on New Zealand Open Research Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/resources/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/resources/</guid>
+      <description>Open Research ResourcesThe Australia/New Zealand Open Research Network project on the Open Science Framework is an excellent place to go for resources relating to open research practices. You can find resources for Learning R (an open source language for statistical computing), podcasts relating to open research, statistical power calculators, reading lists, and syllabi for teaching open and reproducible practices.
+Another great set of resources is the Open Science Toolbox hosted by the LMU Open Science Centre.</description>
+    </item>
+    
+  </channel>
+</rss>
