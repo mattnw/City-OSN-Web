@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         weight  = 2
     [[menu.nav]]
         name    = "Code of Conduct"
-        url     = "/Code_of_Conduct"
+        url     = "/code_of_conduct/code-of-conduct/"
         weight  = 3
     #[[menu.nav]]
     #    name    = "Gallery"
@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         weight  = 4
     [[menu.nav]]
         name    = "Resources"
-        url     = "/Resources"
+        url     = "/Resources/Resources"
         weight  = 5
     #[[menu.nav]]
     #    name    = "Contact"
