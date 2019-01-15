@@ -11,7 +11,8 @@ tags: []
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Open Research Resources
+## Open Research Resources:
+
 The [Australia/New Zealand Open Research Network project](https://osf.io/be7yt/) on the Open Science Framework is an excellent place to go for resources relating to open research practices. You can find resources for [Learning R](https://osf.io/be7yt/wiki/Learning%20R/) (an open source language for statistical computing), [podcasts](https://osf.io/be7yt/wiki/Podcasts/) relating to open research, [statistical power calculators](https://osf.io/be7yt/wiki/Powering%20your%20research/), [reading lists](https://osf.io/be7yt/wiki/Reading%20lists/), and [syllabi](https://osf.io/be7yt/wiki/Teaching%20Open%20and%20Reproducible%20Practices/) for teaching open and reproducible practices.
 
 Another great set of resources is the [Open Science Toolbox](https://www.osc.uni-muenchen.de/toolbox/index.html) hosted by the LMU Open Science Centre.
